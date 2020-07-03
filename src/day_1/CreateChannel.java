@@ -13,7 +13,7 @@ public class CreateChannel {
     System.out.println("not");
 }
 
-        String s= "c";
+        String str= "c";
         if(s.contains("c")){
             System.out.println("contains");
         }else{
